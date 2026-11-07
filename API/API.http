@@ -1,0 +1,9 @@
+@API_HostAddress = https://localhost:5001
+
+GET {{API_HostAddress}}/api/Activities/
+Accept: application/json
+
+###
+
+GET {{API_HostAddress}}/api/Activities/91d64828-812f-4890-b6db-ced9c92443c0
+Accept: application/json
